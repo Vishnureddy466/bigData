@@ -1,5 +1,4 @@
-Deliverable-1
-Group-14
+Deliverable-1 Group-14
 GitHub - https://github.com/Vishnureddy466/bigData
 
 1.a Group Members:
@@ -13,19 +12,27 @@ Sushant Sagar Saka
 Google meetings
 Atkins Library
 Slack
+
 2. Data we would consider:
-2.a) For the first choice, we would like to select the "Renewable Energy and Weather Conditions” https://www.kaggle.com/datasets/samanemami/renewable-energy-and-weather-conditions"
+
+2.a) For the first choice, we would like to select the "Renewable Energy and Weather Conditions” 
+https://www.kaggle.com/datasets/samanemami/renewable-energy-and-weather-conditions"
+
 2.b)  For the second choice, we would like to select the ”Zomato Bangalore Restaurants" 
 “https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants?datasetId=153420&sortBy=voteCount”.
+
 3. a) Business Problem or Opportunity for Renewable Energy and Weather Conditions:
 The business problem is to optimize the usage of renewable energy sources, such as solar and wind power, in order to reduce greenhouse gas emissions and combat climate change. Renewable energy sources are becoming increasingly important as we transition away from fossil fuels, but they are also intermittent, meaning that their output can vary depending on weather conditions. This variability can make it difficult to integrate renewable energy sources into the grid and meet demand for electricity.
+
 Domain Knowledge:
 Due to worries about climate change and the need to minimize greenhouse gas emissions, renewable energy is becoming more and more significant in today's society. Renewable energy generation can be significantly impacted by environmental factors like wind and sun irradiation. To use renewable energy sources as efficiently as possible, it is critical to have a solid understanding of how these variables relate to one another.
+
 Research Objectives:
 Identify patterns and trends in renewable energy production based on weather conditions.
 Predict renewable energy production based on weather conditions.
 Optimize the usage of renewable energy sources based on weather conditions.
 Investigate the impact of different weather conditions on renewable energy production.
+
 Research Questions:
 What is the relationship between solar power production and temperature?
 How does wind speed affect wind power production?
