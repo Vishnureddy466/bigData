@@ -1,4 +1,4 @@
-Zomato Bangalore Restaurants
+ Zomato Bangalore Restaurants
 
  Group-14
 
@@ -82,4 +82,4 @@ Data Preparation involves steps like cleaning and transforming raw data and maki
 
 4. Transforming "Rate", "estimated_cost_for_2_ppl", "rest_type", "location", and "cuisines" columns.
 
-5.  Encoding textual data using the LabelEncoder function
+5.  Encoding textual data using the LabelEncoder function.
