@@ -64,11 +64,11 @@ Data Understanding:
 
 a) Exploratory Data Analysis:
 
-Once the dataset is loaded into an S3 Bucket, by Leveraging the AWS Sagemaker service, we performed Exploratory Data Analysis and performed data preparation tasks on Zomato dataset. The ipynb file of this detailed analysis is located here.
+Once the dataset is loaded into an S3 Bucket, by Leveraging the AWS Sagemaker service(https://github.com/Vishnureddy466/bigData/blob/main/Project%20files/AWS%20sagemaker/Deliverable_final.ipynb), we performed Exploratory Data Analysis and performed data preparation tasks on Zomato dataset. The ipynb file of this detailed analysis is located here.
 
  b) Dashboard:
 
-By Leveraging AWS Quicksight service we have constructed dashboards on different columns of the dataset and gathered insights that aid to understand the nuances and existing patterns in the dataset. The PDF file consisting of screenshots of these interactive visualizations is present in the file here. 
+By Leveraging AWS Quicksight service(https://github.com/Vishnureddy466/bigData/blob/main/Project%20files/AWS%20Quicksight/Quicksite_visualization.pdf) we have constructed dashboards on different columns of the dataset and gathered insights that aid to understand the nuances and existing patterns in the dataset. The PDF file consisting of screenshots of these interactive visualizations is present in the file here. 
 
 Data Preparation:
 
