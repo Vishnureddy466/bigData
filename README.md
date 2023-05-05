@@ -92,7 +92,7 @@ We have used Amazon SageMaker and performed Machine learning and analytics for p
 **Evaluation and Optimization**
 Machine learning on AWS can speed up performing computations. In this project, we used regression models to forecast the restaurant ratings by using Zomato dataset. We used linear regression, decision tree regression, random forest regression, extra tree regression, gradient boosting regression, and XGB regressor, among other models. Extra Tree regression generated the best accuracy rate which is confirmed by finding R2 score. So all the future datasets can modeled using Extre tree regression model. Using scatter plots we visualized how good is our model by understanding how well the actual values and our model predcited values are correlated. Overall, we discovered that using Extra Tree regression and visualizations helped us predict the ratings of the restaurant.
 
-**Results**
+**Results:**
 
 Is there a linear relationship between the actual and predicted ratings?
 ![new_image](images/1.png)
