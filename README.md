@@ -10,9 +10,13 @@ GitHub - https://github.com/Vishnureddy466/bigData
 **1.a	Group Members:**
 
 ●	Vishnu Vardhan Reddy Addulamale
+
 ●	Anvesh Chidura
+
 ●	Jaideep Gurrapu
+
 ●	Jagadeshwar Reddy Panta
+
 ●	Sushant Sagar Saka
 
 
@@ -24,7 +28,7 @@ GitHub - https://github.com/Vishnureddy466/bigData
 ○	We are also communicating in slack and sharing the files which are related to the project.
 
   **2.Data we would consider:**
-  
+
 We would like to select the ”Zomato Bangalore Restaurants" “https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants?datasetId
 =153420&sortBy=voteCount”.
 
