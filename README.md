@@ -69,7 +69,6 @@ Are there any notable trends or patterns in the data that suggest opportunities 
 
 Going forward we may add a few more questions and try to resolve those.
 
- 
 **Deliverable-2**
 
 **Data Understanding:**
