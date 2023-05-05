@@ -110,16 +110,20 @@ What is the R-squared value of the model's performance, which is a measure of ho
 **Future Work, Comments**
 
 **What was unique about the data? Did you have to deal with imbalance? What data cleaning did you do? Outlier treatment? Imputation?**
+
 The Zomato Bangalore Restaurants dataset provides extensive information about the restaurants in Bangalore, including their ratings, cuisines, locations, menus, and pricing. It also includes customer reviews and ratings, which can be useful in understanding customer preferences and identifying areas for improvement. The dataset contains information on thousands of restaurants in Bangalore, and some cuisines or locations may have more restaurants than others. However, we did not encounter any major issues related to class imbalance during our data preparation steps. As mentioned earlier, we dropped unnecessary columns, removed duplicate rows and null values, and transformed and encoded some columns. We did not encounter any significant outliers in the dataset that required treatment. Also, imputation was not required as there were not many missing values in the important columns in the dataset.
 
 **Did you create any new additional features/variables?**
+
 Yes, we renamed the column name like "approx_cost(for two people)" to "estimated_cost_for_2_ppl" and listed_in(city) is dropped as location already covers that information.
 
 **What was the process you used for evaluation? What was the best result?**
+
 Finding the best solution for the data is challenging, for the evaluation of the model comes under the accuracy provided by the model. The results that evaluated help the businesses to predict the future ratings based on the above mentioned columns.
 
 
 **What were the problems you faced? How did you solve them?**
+
 Depending on the analysis method, the data may need to be preprocessed in a specific way, such as scaling or encoding categorical variables. Also, Different machine learning models may perform differently on this dataset, and selecting the best model requires careful consideration of the problem and available data.
 
 
