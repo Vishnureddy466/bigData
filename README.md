@@ -68,6 +68,7 @@ What are the most common complaints and issues raised in restaurant reviews in B
 Are there any notable trends or patterns in the data that suggest opportunities for new restaurant concepts or innovations in the Bangalore market?
 
 Going forward we may add a few more questions and try to resolve those.
+
  
 **Deliverable-2**
 
