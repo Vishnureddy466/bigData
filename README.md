@@ -95,3 +95,13 @@ Machine learning on AWS can speed up performing computations. In this project, w
 Results
 Is there a linear relationship between the actual and predicted ratings?
 ![new_image](images/1.png)
+
+How different are the predicted values and the actual values?
+![new_image](images/2.png)
+
+What is the relationship between the actual ratings and the predicted ratings for the model?
+![new_image](images/3.png)
+
+What is the R-squared value of the model's performance, which is a measure of how well the model fits the data?
+![new_image](images/4.png)
+
