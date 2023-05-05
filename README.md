@@ -23,9 +23,9 @@ GitHub - https://github.com/Vishnureddy466/bigData
 
 **1.b	Communication plan :**
 
-○	We are connecting weekly twice in google meetings, like discussing in depth over the issues we are facing in the project.
-○	Meeting in Atkins Library during the weekends.
-○	We are also communicating in slack and sharing the files which are related to the project.
+1.We are connecting weekly twice in google meetings, like discussing in depth over the issues we are facing in the project.
+2.Meeting in Atkins Library during the weekends.
+3.We are also communicating in slack and sharing the files which are related to the project.
 
   **2.Data we would consider:**
 
